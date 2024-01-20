@@ -1,11 +1,17 @@
 //import './App.css';
 import Nav from "./components/nav";
+import Intro from "./components/into";
+import SpecialOffers from "./components/special_offers";
+import Service from "./components/services";
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold">
+    <main className="text-3xl font-bold">
       <Nav />
-    </h1>
+      <Intro />
+      <SpecialOffers />
+      <Service />
+    </main>
   );
 }
 
