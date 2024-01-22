@@ -7,8 +7,7 @@ export default function Intro() {
         <section class="max-w-screen-xl justify-between mx-auto my-4 p-4">
             <div class="flex flex-row">
                 <div class="basis-1/2">
-                    <span class="bg-[#F54748] text-[#fff] rounded-lg"></span>
-                    <p class="w-fit flex justify-start m-5 bg-[#FEEDED] rounded-lg">
+                    <p class="w-fit flex justify-start m-5 bg-[#FEEDED] rounded-[14px]">
                         <svg xmlns="http://www.w3.org/2000/svg" width="40" height="60" class="" viewBox="-4 -5 24 24">
                             <circle cx="8" cy="7.5" r="10.5" fill="#F54748" />
                             <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z" fill="#FDC55E"></path> </svg>
