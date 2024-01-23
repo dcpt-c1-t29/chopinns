@@ -1,12 +1,12 @@
-import React from "react";
-import image1 from "../assets/foterM100.png";
-import image2 from "../assets/foterM200.png";
-import image3 from "../assets/foterM300.png";
-import image4 from "../assets/foterM400.png";
-import image5 from "../assets/foterM500.png";
-import image6 from "../assets/foterM600.png";
-import image7 from "../assets/foterM700.png";
-import image8 from "../assets/foterM800.png";
+import image1 from "../../assets/img/foterM100.png";
+import image2 from "../../assets/img/foterM200.png";
+import image3 from "../../assets/img/foterM300.png";
+import image4 from "../../assets/img/foterM400.png";
+import image5 from "../../assets/img/foterM500.png";
+import image6 from "../../assets/img/foterM600.png";
+import image7 from "../../assets/img/foterM700.png";
+import image8 from "../../assets/img/foterM800.png";
+ 
 
 const FooterMobile = () => {
   return (

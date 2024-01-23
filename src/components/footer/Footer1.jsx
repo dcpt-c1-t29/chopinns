@@ -1,14 +1,13 @@
-import React from "react";
-import image1 from "../assets/footer100.png";
-import image2 from "../assets/footer200.png";
-import image3 from "../assets/footer300.png";
-import image4 from "../assets/footer400.png";
-import image5 from "../assets/footer500.png";
-import image6 from "../assets/footer600.png";
-import image7 from "../assets/footer700.png";
-import image8 from "../assets/footer800.png";
+import image1 from "../../assets/img/footer100.png";
+import image2 from "../../assets/img/footer200.png";
+import image3 from "../../assets/img/footer300.png";
+import image4 from "../../assets/img/footer400.png";
+import image5 from "../../assets/img/footer500.png";
+import image6 from "../../assets/img/footer600.png";
+import image7 from "../../assets/img/footer700.png";
+import image8 from "../../assets/img/footer800.png";
 
-const Footer = () => {
+const Footer1 = () => {
   return (
     <div className="pl-16 pr-12 pt-2.5 max-md:px-5">
       <header className="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
@@ -53,4 +52,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Footer1;

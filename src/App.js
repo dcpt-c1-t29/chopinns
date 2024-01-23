@@ -3,6 +3,7 @@ import Nav from "./components/nav";
 import Intro from "./components/into";
 import SpecialOffers from "./components/special_offers";
 import Service from "./components/services";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Intro />
       <SpecialOffers />
       <Service />
+      <Footer />
     </main>
   );
 }
