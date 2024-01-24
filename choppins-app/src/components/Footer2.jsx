@@ -111,8 +111,9 @@ const Footer2 = () => {
                       </p>
                       <div className="flex w-full items-stretch justify-between gap-4 mt-10">
                         <div className="text-zinc-900 text-sm bg-gray-300 focus:border-gray-300 focus:ring focus:ring-red-500 whitespace-nowrap  grow justify-center pl-6 pr-16 py-5 rounded-[38px] items-start">
-                          <label htmlFor="emailInput">Email</label>
+                          
                           <input
+                          placeholder= "Email"
                             id="emailInput"
                             type="email"
                             aria-label="Email Input"
