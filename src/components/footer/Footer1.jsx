@@ -16,7 +16,7 @@ const Footer1 = () => {
             className="flex flex-col items-stretch mt-14 max-md:max-w-full max-md:mt-10"
             aria-label="Banner Header"
           >
-            <h1 className="text-amber-300 text-5xl font-bold max-md:max-w-full max-md:text-4xl">
+            <h1 className="text-xl font-bold max-md:max-w-full max-md:text-4xl">
               You&rsquo;ve come a long way.{" "}
               <span className="text-red-500">Don&rsquo;t Starve,</span> Get{" "}
               <span className="text-amber-300">50% </span>
@@ -24,7 +24,7 @@ const Footer1 = () => {
             </h1>
             <a
               href="#"
-              className="text-white text-lg font-semibold capitalize whitespace-nowrap bg-red-500 justify-center items-stretch ml-3 mt-10 pl-5 pr-6 py-4 rounded-[100px] self-start max-md:ml-2.5 max-md:pr-5 transition-all duration-300 ease-in-out hover:bg-red-600 active:brightness-110"
+              className="text-white text-l font-medium capitalize whitespace-nowrap bg-red-500 justify-center items-stretch ml-3 mt-10 pl-5 pr-6 py-4 rounded-[100px] self-start max-md:ml-2.5 max-md:pr-5 transition-all duration-300 ease-in-out hover:bg-red-600 active:brightness-110"
               aria-label="Place your First Order"
             >
               Place your First Order

@@ -5,6 +5,7 @@ import SpecialOffers from "./components/special_offers";
 import Service from "./components/services";
 import Footer from "./components/footer";
 
+
 function App() {
   return (
     <main className="text-3xl font-bold">
